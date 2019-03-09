@@ -14,13 +14,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
 author: 'YanLiwei'
 nickname: 'riddreams'
 bio: '心之所向，素履以往；生如逆旅，一苇以航。'
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
@@ -33,7 +33,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban']
+social-share-items: ['wechat', 'weibo']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
